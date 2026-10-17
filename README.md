@@ -1,4 +1,4 @@
-## Hi, I'm Saleh 👋
+## Cheers!
 
 - AI Research Staff at **UT Austin** and Research Scientist at [SafeKidAI](https://safekidai.org/), working on **responsible AI/LLMs, reasoning, and interpretability**
 - Building safety benchmarks and evaluation pipelines that probe LLMs for hallucination, bias, sycophancy, and harmful outputs: [LLM Ethics Benchmark](https://github.com/The-Responsible-AI-Initiative/LLM_Ethics_Benchmark), [Safe-Child-LLM](https://github.com/The-Responsible-AI-Initiative/Safe_Child_LLM_Evaluation), [SafeGesture](https://github.com/The-Responsible-AI-Initiative/SafeGesture)
