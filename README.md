@@ -1,4 +1,4 @@
-## Hi, I'm Saleh Afroogh 👋
+## Hi, I'm Saleh 👋
 
 **AI Research Staff at The University of Texas at Austin** · Research Scientist at [SafeKidAI](https://safekidai.org/)
 
