@@ -7,8 +7,8 @@
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/saleh-afroogh-a53887129/), [Google Scholar](https://scholar.google.com/citations?user=O_LtBagAAAAJ&hl=en), or check out my [personal website](https://salehafroogh.github.io/)
 
 <p>
-<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" height="190"></a>
-<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages used" height="190"></a>
-<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" height="190"></a>
-<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages used" height="190"></a>
+<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub stats" height="190"></a>
+<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/generated/languages.svg#gh-dark-mode-only" alt="Languages used" height="190"></a>
+<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub stats" height="190"></a>
+<a href="https://github.com/SalehAfroogh/github-stats"><img src="https://raw.githubusercontent.com/SalehAfroogh/github-stats/generated/languages.svg#gh-light-mode-only" alt="Languages used" height="190"></a>
 </p>
