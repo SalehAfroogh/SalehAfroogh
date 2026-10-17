@@ -11,7 +11,7 @@ My work has appeared in *Nature Human Behaviour*, *Scientific Reports*, AAAI/ACM
 ---
 
 ### 🔬 Research focus
-`LLM safety & red-teaming` · `Explainable AI & interpretability` · `LLM reasoning` · `Child safety in AI` · `AI evaluation & benchmarking` · `AI governance`
+`Responsible AI` · `LLM Safety & Red-Teaming` · `Explainable AI` · `Reasoning + Interpretability` · `AI Governance` · `Data Science` · `Machine Learning` · `AI Safety + AI Ethics` · `Health AI` · `HCI`
 
 ### 🛠️ Selected projects
 
